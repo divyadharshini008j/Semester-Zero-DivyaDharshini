@@ -3,7 +3,7 @@
 
 - **Name:** Divya Dharshini
 - **Register Number:** RTC26BIT003
-- **Department:**B.TECH INFORMATION TECHNOLOGY
+- **Department: B.TECH INFORMATION TECHNOLOGY
 - **College Name:** RATHINAM TECHNICAL CAMPUS
 - **Career Goal:** SOFTWARE DEVELOPER
 - **Favourite Technology:** Python ,WEB DEVELOPEMENT
